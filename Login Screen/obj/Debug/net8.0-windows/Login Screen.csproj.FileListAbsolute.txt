@@ -1,0 +1,17 @@
+C:\Users\OSBORNE\source\repos\Login Screen\Login Screen\bin\Debug\net8.0-windows\Login Screen.exe
+C:\Users\OSBORNE\source\repos\Login Screen\Login Screen\bin\Debug\net8.0-windows\Login Screen.deps.json
+C:\Users\OSBORNE\source\repos\Login Screen\Login Screen\bin\Debug\net8.0-windows\Login Screen.runtimeconfig.json
+C:\Users\OSBORNE\source\repos\Login Screen\Login Screen\bin\Debug\net8.0-windows\Login Screen.dll
+C:\Users\OSBORNE\source\repos\Login Screen\Login Screen\bin\Debug\net8.0-windows\Login Screen.pdb
+C:\Users\OSBORNE\source\repos\Login Screen\Login Screen\obj\Debug\net8.0-windows\Login_Screen.Form1.resources
+C:\Users\OSBORNE\source\repos\Login Screen\Login Screen\obj\Debug\net8.0-windows\Login_Screen.Properties.Resources.resources
+C:\Users\OSBORNE\source\repos\Login Screen\Login Screen\obj\Debug\net8.0-windows\Login Screen.csproj.GenerateResource.cache
+C:\Users\OSBORNE\source\repos\Login Screen\Login Screen\obj\Debug\net8.0-windows\Login Screen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OSBORNE\source\repos\Login Screen\Login Screen\obj\Debug\net8.0-windows\Login Screen.AssemblyInfoInputs.cache
+C:\Users\OSBORNE\source\repos\Login Screen\Login Screen\obj\Debug\net8.0-windows\Login Screen.AssemblyInfo.cs
+C:\Users\OSBORNE\source\repos\Login Screen\Login Screen\obj\Debug\net8.0-windows\Login Screen.csproj.CoreCompileInputs.cache
+C:\Users\OSBORNE\source\repos\Login Screen\Login Screen\obj\Debug\net8.0-windows\Login Screen.dll
+C:\Users\OSBORNE\source\repos\Login Screen\Login Screen\obj\Debug\net8.0-windows\refint\Login Screen.dll
+C:\Users\OSBORNE\source\repos\Login Screen\Login Screen\obj\Debug\net8.0-windows\Login Screen.pdb
+C:\Users\OSBORNE\source\repos\Login Screen\Login Screen\obj\Debug\net8.0-windows\Login Screen.genruntimeconfig.cache
+C:\Users\OSBORNE\source\repos\Login Screen\Login Screen\obj\Debug\net8.0-windows\ref\Login Screen.dll
