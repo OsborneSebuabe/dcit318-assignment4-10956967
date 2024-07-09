@@ -1,0 +1,10 @@
+C:\Users\OSBORNE\source\repos\Drawing App\Drawing App\bin\Debug\Drawing App.exe.config
+C:\Users\OSBORNE\source\repos\Drawing App\Drawing App\bin\Debug\Drawing App.exe
+C:\Users\OSBORNE\source\repos\Drawing App\Drawing App\bin\Debug\Drawing App.pdb
+C:\Users\OSBORNE\source\repos\Drawing App\Drawing App\obj\Debug\DrawingApp.csproj.AssemblyReference.cache
+C:\Users\OSBORNE\source\repos\Drawing App\Drawing App\obj\Debug\Drawing_App.Form1.resources
+C:\Users\OSBORNE\source\repos\Drawing App\Drawing App\obj\Debug\Drawing_App.Properties.Resources.resources
+C:\Users\OSBORNE\source\repos\Drawing App\Drawing App\obj\Debug\DrawingApp.csproj.GenerateResource.cache
+C:\Users\OSBORNE\source\repos\Drawing App\Drawing App\obj\Debug\DrawingApp.csproj.CoreCompileInputs.cache
+C:\Users\OSBORNE\source\repos\Drawing App\Drawing App\obj\Debug\Drawing App.exe
+C:\Users\OSBORNE\source\repos\Drawing App\Drawing App\obj\Debug\Drawing App.pdb
